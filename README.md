@@ -1,4 +1,4 @@
-# Cohort-Assignement 2
+# Cohort-Assignment 2
 
 ## Write a read-only function that returns true if the given year is a leap year else return false
 
